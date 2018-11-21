@@ -1,0 +1,11 @@
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\bin\Debug\VentasEscritorio.exe.config
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\bin\Debug\VentasEscritorio.exe
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\bin\Debug\VentasEscritorio.pdb
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.Form1.resources
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.NotasForm.resources
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.exe
+C:\Users\Sebastian\source\repos\Notas\VentasEscritorio\obj\Debug\VentasEscritorio.pdb
